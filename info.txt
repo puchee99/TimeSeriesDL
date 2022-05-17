@@ -1,0 +1,5 @@
+https://github.com/curiousily/Getting-Things-Done-with-Pytorch --> examples time series and moree
+https://towardsdatascience.com/building-rnn-lstm-and-gru-for-time-series-using-pytorch-a46e5b094e7b --> RNN, LSTM and GRU  time series
+https://towardsdatascience.com/pytorch-lstms-for-time-series-data-cd16190929d7 -->time series LSTM
+https://jovian.ai/ningboming/time-series-classification-cnn --> time series CNN
+https://github.com/ritvikmath/Time-Series-Analysis --> time series examples and meaning --> yt tutorials
