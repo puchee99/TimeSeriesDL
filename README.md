@@ -55,7 +55,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#results">Results</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -140,10 +140,16 @@ The train.py and test.py documents can be executed with bash using different arg
     ```
 
 
-## Results
+## Roadmap
 
+- [x] Test different models
+- [ ] Train model as [PytorchClassifier](https://github.com/puchee99/PytorchClassifier)
+- [ ] Loggers
+- [ ] BI
+    - [ ] Flask
+    - [ ] Plotly
 
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
 
