@@ -64,11 +64,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The objective of this project is to 
+The objective of this project is to predict time series using neural networks. It should be good enough to be cut up and used for different projects.
 
 ![product-screenshot]
 
-[Features image][product-screenshot]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
