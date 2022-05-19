@@ -46,6 +46,8 @@ def all_pytrends(start = (datetime.now() - timedelta(days=265)).strftime("%Y-%m-
 
     return df 
 
+a="abv"
+
 #----------------------yahoo--------------------------
 
 
