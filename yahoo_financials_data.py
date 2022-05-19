@@ -1,2 +1,0 @@
-from yahoofinancials import YahooFinancials
-
