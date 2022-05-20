@@ -52,7 +52,7 @@ def save_df_local(df: pd.DataFrame, output_name: str='results.csv', create_folde
         compression_opts = dict(method='zip',archive_name=output_name.split("/")[-1])  
         df.to_csv(name_compressed, index=False,compression=compression_opts) 
     else:
-        df.to_csv(output_name,index=False) 
+        df.to_csv(output_name,index=True) 
     return
 
 class SaveBestModel:

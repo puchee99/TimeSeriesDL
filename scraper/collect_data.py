@@ -124,7 +124,7 @@ if __name__ == "__main__":
 
     df_yahoo = get_all_yahoo()
     save_df_local(df=df_yahoo, output_name='yahoo_data.csv', create_folder=True, new_folder_path= '../data')
-
+    print()
 
     catfish_sales = pd.read_csv('..data/pytrends_data.csv', parse_dates=[0], index_col=0, date_parser=parser)#squeeze=True --> .squeeze(col)
     print(catfish_sales.head())
