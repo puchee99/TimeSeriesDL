@@ -107,6 +107,9 @@ def parser(s):
     return datetime.strptime(s, '%Y-%m-%d')
 
 if __name__ == "__main__":
+    df_test = historical_yahoo_one()
+    df_test.to_csv("test_yahoo.csv",index=True)
+
     df_pytrends = get_all_pytrends()
     df_pytrends.to_csv("pytrends_data.csv",index=True)
 
